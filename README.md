@@ -3,8 +3,8 @@ This project is an analysis of developer trends using data from the 2024 Stack O
 
 ## Files
 - `EDA_Stack_Overflow_Survey.ipynb`: The Jupyter Notebook with data analysis and visualizations.
-- 'survey_data_updated.csv': 2024 Stack Overflow Survey data
 - `DataAnalystPresentation.pdf`: PDF version of the research presentation.
+- 'survey_data_updated.csv': 2024 Stack Overflow Survey data
 
 ## Summary of Findings
 - Most survey respondents are full-time,full stack developers from the US between the ages of 25-34 years old

@@ -2,9 +2,9 @@
 This project is an analysis of developer trends using data from the 2024 Stack Overflow Developer Survey to determine how the technological landscape is changing. Key areas of interest include tool preference, developer type, participant demographics, job satisfaction and compensation metrics.
 
 ## Files
-- `EDA_Stack_Overflow_Survey.ipynb`: The Jupyter Notebook with data analysis and visualizations.
+- `EDA_Stack_Overflow_Survey.ipynb`: The Jupyter Notebook with exploratory data analysis and visualizations.
 - `DataAnalystPresentation.pdf`: PDF version of the research presentation.
-- 'survey_data_updated.csv': 2024 Stack Overflow Survey data
+- 'survey_data.csv.zip': 2024 Stack Overflow Survey data
 
 ## Summary of Findings
 - Most survey respondents are full-time,full stack developers from the US between the ages of 25-34 years old
@@ -17,3 +17,4 @@ This project is an analysis of developer trends using data from the 2024 Stack O
 To view or run the notebook:
 1. Clone this repository.
 2. Open the `.ipynb` file in Jupyter Notebook or Jupyter Lab.
+3. Uncompress survey_data.csv.zip and upload to Jupyter Lab

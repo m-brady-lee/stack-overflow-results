@@ -7,7 +7,7 @@ This project is an analysis of developer trends using data from the 2024 Stack O
 - 'survey_data.csv.zip': 2024 Stack Overflow Survey data
 
 ## Summary of Findings
-Link to Presentation: DataAnalystPresentation.pdf
+Link to Presentation: [DataAnalystPresentation.pdf](https://github.com/m-brady-lee/stack-overflow-results/blob/main/DataAnalystPresentation.pdf)
 - Most survey respondents are full-time,full stack developers from the US between the ages of 25-34 years old
 - The top 3-5 languages (JavaScript, SQL, Typescript), databases (PostgreSQL), platforms (AWS, Azure) and frameworks (React, Node.js) have stayed consistent YOY, however, new technology preferences (Rust, Go, Supabase) are emerging
 - There is no correlation between job satisfaction and developer role
